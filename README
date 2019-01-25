@@ -8,6 +8,7 @@ Brugt til at samle https://soundcloud.com/kenny-olsen/smkid-klub-2-7 af S/M+KID 
 
 Før du kører noget som helst, bør indholdet af denne mappe have følgende struktur:
 
+```
 klub-100-maker/
 ├── shoutouts/
 │   ├── 1.wav
@@ -21,6 +22,7 @@ klub-100-maker/
 ├── prepare_all_shoutouts.py
 ├── prepare_all_tracks.py
 └── combine.py
+```
 
 hvor ./shoutouts/n.wav indeholder skud ud'et til den n'te sang i klub 100en, hvis det giver mening. Skud ud'et kommer *før* sangen, så ./shoutouts/1.wav er jeres intro-skud-ud.
 
