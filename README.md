@@ -39,6 +39,6 @@ Denne .csv fil indeholder information om sangene i en klub 100. Hver række svar
 * Kør combine.py for at kombinere sange og skud ud til en endelig klub.mp3.
 
 Kræver:
-python3
-youtube-dl - for at køre dl.py
-ffmpeg - for at køre prepare_track.py, prepare_shoutout.py og combine.py
+ * `python3`
+ * `youtube-dl` - for at køre dl.py
+ * `ffmpeg` - for at køre prepare_track.py, prepare_shoutout.py og combine.py
